@@ -1,9 +1,9 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import Header from './Header';
 
 const App = () => {
   return(
-    <div>Sup.</div>
+    <div><Header /></div>
   )
 }
 
